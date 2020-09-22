@@ -17,7 +17,7 @@
 - Install packages
 - Create file structure
 - Connect components
-- Confirm components are connected
+- Confirm components are connected (Routing required for show)
 - Configure ESLinter (Rules, Exceptions, Playing nicely with Prettier)
 - Satisfy Linter
 - Connect API
