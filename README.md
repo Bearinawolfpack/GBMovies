@@ -12,6 +12,10 @@
 
 - The data is coming from [TMDB](https://www.themoviedb.org/documentation/api/discover).
 
+- Non-default react [exporting](https://www.geeksforgeeks.org/reactjs-importing-exporting/)
+
+- Cannot have Link outside of Router [Error](https://stackoverflow.com/questions/48640280/you-should-not-use-link-outside-a-router)
+
 ## Notes
 
 - Install packages

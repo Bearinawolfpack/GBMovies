@@ -31,3 +31,4 @@ const MoviesDisplay = () => {
 };
 
 export default MoviesDisplay;
+export { MovieList }

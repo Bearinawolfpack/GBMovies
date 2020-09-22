@@ -7,11 +7,12 @@ import MovieShow from './Components/MovieComponents/MovieShow';
 
 const App = () => (
 	<React.Fragment>
-		<Header />
+		
 		<Router>
+    <Header />
 			<Switch>
 				<Route exact path="/" component={MoviesDisplay} />
-				<Route path="/show" component={MovieShow} />
+				<Route path="/:id" component={MovieShow} />
 			</Switch>
 		</Router>
 	</React.Fragment>
