@@ -16,6 +16,8 @@
 
 - Cannot have Link outside of Router [Error](https://stackoverflow.com/questions/48640280/you-should-not-use-link-outside-a-router)
 
+- ESLint/Airbnb, Prettier[Config](https://github.com/paulolramos/eslint-prettier-airbnb-react)
+
 ## Notes
 
 - Install packages
