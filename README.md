@@ -16,6 +16,12 @@
 
 - Cannot have Link outside of Router [Error](https://stackoverflow.com/questions/48640280/you-should-not-use-link-outside-a-router)
 
+- ESLint/Airbnb, Prettier[Config](https://github.com/paulolramos/eslint-prettier-airbnb-react)
+
+- [propType.shape] for prop objects(https://reactjs.org/docs/typechecking-with-proptypes.html)
+
+- Nested [Default] props(https://stackoverflow.com/questions/58057885/react-default-props-for-array-property-in-required-object)
+
 ## Notes
 
 - Install packages
