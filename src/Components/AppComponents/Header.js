@@ -1,5 +1,6 @@
-import React from 'react'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
-const Header = () => <h1>This is the Header component</h1>;
+const Header = () => <Link to="/">Header</Link>;
 
 export default Header;

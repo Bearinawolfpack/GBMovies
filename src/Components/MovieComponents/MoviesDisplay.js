@@ -26,9 +26,9 @@ const MoviesDisplay = () => {
 	return (
 		<>
 			{DisplayMovies}
-			<h1>This is the MoviesDisplay component</h1>
 		</>
 	);
 };
 
 export default MoviesDisplay;
+export { MovieList }
