@@ -11,3 +11,15 @@
 - Other Technologies used include: [react-router](https://reactrouter.com/web/api/Link/component-reactcomponent), [prop-types](https://github.com/facebook/prop-types), [styled-components](https://styled-components.com/docs/basics#styling-any-component), [react-overdrive](https://github.com/berzniz/react-overdrive) ,and [dot-env](https://github.com/motdotla/dotenv).
 
 - The data is coming from [TMDB](https://www.themoviedb.org/documentation/api/discover).
+
+## Notes
+
+- Install packages
+- Create file structure
+- Connect components
+- Confirm components are connected
+- Configure ESLinter (Rules, Exceptions, Playing nicely with Prettier)
+- Satisfy Linter
+- Connect API
+- Confirm that we can access the data we need
+- Start programming app
