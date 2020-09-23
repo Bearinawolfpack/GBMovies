@@ -24,12 +24,12 @@
 
 ## Notes
 
-- Install packages
-- Create file structure
-- Connect components
-- Confirm components are connected (Routing required for show)
-- Configure ESLinter (Rules, Exceptions, Playing nicely with Prettier)
-- Satisfy Linter
-- Connect API
-- Confirm that we can access the data we need
-- Start programming app
+- Install packages [x]
+- Create file structure [x]
+- Connect components [x]
+- Confirm components are connected (Routing required for show) [x]
+- Configure ESLinter (Rules, Exceptions, Playing nicely with Prettier) [x]
+- Satisfy Linter [x]
+- Connect API [x]
+- Confirm that we can access the data we need [ ]
+- Start programming app [ ]
