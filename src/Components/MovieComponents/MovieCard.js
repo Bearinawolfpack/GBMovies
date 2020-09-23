@@ -7,7 +7,7 @@ const MoviesCard = ({ movie }) => (
     <Link to={`/${movie.id}`}>
       <h2>{movie.title}</h2>
     </Link>
-    <h4>{movie.description}</h4>
+    <h4>{movie.overview}</h4>
   </>
 );
 
@@ -15,14 +15,14 @@ export default MoviesCard;
 
 MoviesCard.defaultProps = {
   movie: {
-    description: 'Description Not Available',
+    overview: 'overview Not Available',
   },
 };
 
 MoviesCard.propTypes = {
   movie: PropTypes.shape({
     title: PropTypes.string.isRequired,
-    description: PropTypes.string,
+    overview: PropTypes.string,
     id: PropTypes.number.isRequired,
   }),
 };
