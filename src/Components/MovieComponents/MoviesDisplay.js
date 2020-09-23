@@ -19,8 +19,6 @@ class MoviesDisplay extends React.Component {
   }
 
   render() {
-		// console.log(process.env.REACT_APP_TMDB)
-		console.log(this.state.stateMovies)
     const displayMovies = this.state.stateMovies.map((movie) => (
       <MovieCard movie={movie} key={movie.id} />
     ));
